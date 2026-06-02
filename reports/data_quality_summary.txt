@@ -1,0 +1,24 @@
+DATA QUALITY REPORT
+
+01_fund_master.csv
+------------------
+Rows:
+Columns:
+Missing Values:
+Duplicate Rows:
+
+02_nav_history.csv
+------------------
+Rows:
+Columns:
+Missing Values:
+Duplicate Rows:
+
+...
+
+10_benchmark_indices.csv
+------------------------
+Rows:
+Columns:
+Missing Values:
+Duplicate Rows:
